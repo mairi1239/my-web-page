@@ -2,15 +2,15 @@
 
 The image above is the result of running the following html code 
 
-<!DOCTYPE html>
-<html>
-<head>
+    <!DOCTYPE html>
+    <html>
+    <head>
     <title>CSS Color Challenge</title>
 
     <!-- Linking the external CSS file -->
     <link rel="stylesheet" href="style.css">
-</head>
-<body>
+    </head>
+    <body>
 
     <h1>CSS Color Challenge</h1>
 
@@ -20,7 +20,7 @@ The image above is the result of running the following html code
 
     <p class="green-box">Unstyled Paragraph</p>
 
-</body>
-</html>
+    </body>
+    </html>
 
 
