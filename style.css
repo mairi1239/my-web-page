@@ -1,0 +1,24 @@
+/* Blue heading */
+h1 {
+    background-color: #2196F3; /* bright blue */
+    color: blue;
+    padding: 15px;
+}
+
+/* Purple text */
+.purple-text {
+    color: red;
+}
+
+/* Yellow bar */
+.yellow-box {
+    background-color: yellow;
+    color: orange;
+    padding: 10px;
+}
+
+/* Light green bar */
+.green-box {
+    background-color: #c6e1c6;
+    padding: 10px;
+}
